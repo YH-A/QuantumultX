@@ -16,6 +16,9 @@
 
 
 
+[mitm]
+hostname = buy.itunes.apple.com
+
 */
 
 let obj = JSON.parse($response.body);
