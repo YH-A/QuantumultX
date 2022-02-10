@@ -2,8 +2,8 @@
 更新时间：2022.2.9
 使用声明：⚠️⚠️⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 Rewrite Local:
-^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/(\$RCAnonymousID\%)?(\w)+$ url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/App%20Store.js
-^https?:\/\/api\.revenuecat\.com\/v\d\/receipts$ url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/App%20Store.js
+^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/(\$RCAnonymousID\%)?(\w)+$ url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/File%20edit.js
+^https?:\/\/api\.revenuecat\.com\/v\d\/receipts$ url script-response-body https://raw.githubusercontent https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/File%20edit.js
 hostname:
 api.revenuecat.com
 */
