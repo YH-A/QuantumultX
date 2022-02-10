@@ -1,8 +1,8 @@
 [rewrite_local]
 
 
-^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/(\$RCAnonymousID\%)?(\w)+$ url script-response-body FileBox.js
-^https?:\/\/api\.revenuecat\.com\/v\d\/receipts$ url script-response-body FileBox.js
+^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/(\$RCAnonymousID\%)?(\w)+$ url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/edit.js
+^https?:\/\/api\.revenuecat\.com\/v\d\/receipts$ url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/edit.js
 
 
 [mitm] 
