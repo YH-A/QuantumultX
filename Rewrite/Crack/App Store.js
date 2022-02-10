@@ -1,7 +1,5 @@
 /*
-脚本功能：FileBox
 更新时间：2022.2.9
-问题反馈：https://t.me/yqc_777
 使用声明：⚠️⚠️⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 Rewrite Local:
 ^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/(\$RCAnonymousID\%)?(\w)+$ url script-response-body FileBox.js
