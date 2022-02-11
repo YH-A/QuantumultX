@@ -1,4 +1,9 @@
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/efzogwiuhn/rule/ios/quantumultx/js/shitubaike.js
+# 识图百科内购解锁 https://apps.apple.com/us/app/id1517758647
+
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/stbk.js
+
+hostname = buy.itunes.apple.com
+
 
 
 
