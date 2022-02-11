@@ -6,9 +6,9 @@ Douban Movie Add-ons for Surge by Neurogram
 使用说明
 [Script]
 茶杯狐、奈菲影视、555电影
-http-response ^https://m.douban.com/movie/subject/.+ script-path=Douban.js,requires-body=true,max-size=307200
+http-response ^https://m.douban.com/movie/subject/.+ script-path= https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/douban.js,requires-body=true,max-size=307200
 Airtable 收藏
-http-request ^https://m.douban.com/movie/subject/.+\?seen=\d script-path=Douban.js
+http-request ^https://m.douban.com/movie/subject/.+\?seen=\d script-path= https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/douban.js
 [MITM]
 hostname = m.douban.com
 收藏功能，需自行修改代码，点击 想看 / 看过 触发收藏
