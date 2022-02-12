@@ -7,7 +7,7 @@
 https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVerifyReceipt.php|v1/subscription/user_info) url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/qyxj.js
 
 
-hostname=commerce-api.faceu.mobi
+hostname= commerce-api.faceu.mobi
 
 */
 const path1 = "/commerce/v1/subscription/user_info";
