@@ -9,6 +9,7 @@ https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVe
 
 hostname= commerce-api.faceu.mobi
 
+*
 */
 const path1 = "/commerce/v1/subscription/user_info";
 const path2 = "/apple/iosAppVerifyReceipt.php";
