@@ -7,7 +7,7 @@
 https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVerifyReceipt.php|v1/subscription/user_info) url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/qyxj.js
 
 
-hostname= commerce-api.faceu.mobi
+hostname= commerce-api.faceu.mobi, 116.177.224.249, 116.177.224.251, 116.177.224.244, 116.177.224.252, 116.177.224.248, 116.177.224.250
 
 *
 */
