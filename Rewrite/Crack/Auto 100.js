@@ -1,9 +1,6 @@
 /*
 * ==UserScript==
 * @ScriptName        拦截100
-* @Author            Cuttlefish
-* @TgChannel         https://t.me/ddgksf2021
-* @WechatID          墨鱼手记
 * @UpdateTime        2022-02-15
 * @ScriptFunction    自动领取3天会员
 * @Attention         低调使用       
