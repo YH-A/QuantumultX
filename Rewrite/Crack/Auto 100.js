@@ -12,9 +12,9 @@
 【QuantumultX】 :
 *************************
 [rewrite_local]
-https://tagit.hyhuo.com/cypt/block100/gain_vip url script-request-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/block100.js
+https://tagit.hyhuo.com/cypt/block100/gain_vip url script-request-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/Auto%20100.js
 [task_local]
-15 7 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/block100.js, tag=拦截100自动领取会员
+15 7 * * * https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/Auto%20100.js, tag=拦截100自动领取会员
 [mimt]
 hostname=tagit.hyhuo.com
 *************************
