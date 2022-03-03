@@ -1,6 +1,17 @@
 #分流名称：  广告屏蔽
 
 
+#腾讯视频去广告
+host, dp3.qq.com, reject
+#host, iacc.qq.com, reject
+host, livep.l.qq.com, reject
+host, vr.gdt.qq.com, reject
+host, vv.video.qq.com, reject
+host, btrace.video.qq.com, reject
+host, mtrace.qq.com, reject
+host, btrace.qq.com, reject
+
+
 # ～ 美颜相机去首页和轮播广告
 host, adui.tg.meitu.com, reject
 host, aaid.uyunad.com, reject
