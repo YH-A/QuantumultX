@@ -1,8 +1,5 @@
 #分流名称：  广告屏蔽
 
-
-
-Quanx 去除广告规则
 #＞HDOBOX去广告
 host-suffix, applovin.com, reject
 host-suffix, applvn.com, reject
