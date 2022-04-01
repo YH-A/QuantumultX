@@ -4,6 +4,10 @@
 host-suffix, applovin.com, reject
 host-suffix, applvn.com, reject
 
+
+#爱奇艺广告屏蔽
+ip-cidr, 203.107.63.154/32, reject
+
 #腾讯视频去广告
 host, dp3.qq.com, reject
 #host, iacc.qq.com, reject
@@ -22,6 +26,11 @@ host, aaid.uyunad.com, reject
 # ～ 多多视频去开屏广告
 host-suffix, bayescom.com, reject
 
+
+# ～ 真不卡
+DOMAIN-SUFFIX, ttayy.cn, reject
+DOMAIN-SUFFIX, zhengxiaoliu.top, reject
+
 # ～ 车来了（包括小程序）
 host-suffix, atrace.chelaile.net.cn, reject
 host, logs.chelaile.net.cn, reject
@@ -32,3 +41,5 @@ HOST, ad.12306.cn, REJECT
 
 # ～ 两步路
 HOST-SUFFIX, admobile.top, REJECT
+
+
