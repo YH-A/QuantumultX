@@ -42,4 +42,9 @@ HOST, ad.12306.cn, REJECT
 # ～ 两步路
 HOST-SUFFIX, admobile.top, REJECT
 
-
+#Baidu Map
+host, zt.baidu.com, reject
+host, oil.baidu.com, reject
+host, sofire.baidu.com, reject
+host, hmma.baidu.com, reject
+host, dss0.bdstatic.com, reject
