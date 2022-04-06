@@ -3,7 +3,7 @@ Notability 11.02 crack
 
 [rewrite_local]
 
-^https:\/\/notability\.com\/subscriptions url script-response-body notabilityvip.js
+^https:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/notabilityvip.js
 
 [mitm]
 hostname = notability.com
