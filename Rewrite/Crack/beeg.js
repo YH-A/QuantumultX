@@ -1,7 +1,9 @@
 /*
 app下载地址：商店搜索：贝尔儿歌
 #贝尔儿歌
-重写
+
+[rewrite_local]
+
 ^http://iface.beva.com/order/device/vip url script-response-body https://raw.githubusercontent.com/YH-A/QuantumultX/main/Rewrite/Crack/beeg.js
 
 [mitm] 
